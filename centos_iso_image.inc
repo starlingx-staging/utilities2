@@ -39,3 +39,6 @@ stx-extensions
 
 # update-motd
 update-motd
+
+# system-client
+system-client

@@ -14,3 +14,4 @@ utilities/pci-irq-affinity-agent
 utilities/platform-util
 utilities/stx-extensions
 utilities/update-motd
+system-client

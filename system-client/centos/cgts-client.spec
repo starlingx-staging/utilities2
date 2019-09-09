@@ -1,5 +1,5 @@
 Summary: System Client and CLI
-Name: cgts-client
+Name: system-client
 Version: 1.0
 Release: %{tis_patch_ver}%{?_tis_dist}
 License: Apache-2.0

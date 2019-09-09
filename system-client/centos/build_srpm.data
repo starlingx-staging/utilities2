@@ -1,2 +1,2 @@
-SRC_DIR="cgts-client"
+SRC_DIR="system-client"
 TIS_PATCH_VER=70
